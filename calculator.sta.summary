@@ -1,0 +1,101 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'clk'
+Slack : -6.034
+TNS   : -42.181
+
+Type  : Slow 1200mV 85C Model Setup 'FSM:inst1|presentState[0]'
+Slack : -1.411
+TNS   : -6.687
+
+Type  : Slow 1200mV 85C Model Hold 'FSM:inst1|presentState[0]'
+Slack : -1.323
+TNS   : -11.053
+
+Type  : Slow 1200mV 85C Model Hold 'clk'
+Slack : 0.358
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'clk'
+Slack : -2.188
+TNS   : -17.089
+
+Type  : Slow 1200mV 85C Model Removal 'clk'
+Slack : 1.853
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -16.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'FSM:inst1|presentState[0]'
+Slack : 0.306
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'clk'
+Slack : -5.319
+TNS   : -36.595
+
+Type  : Slow 1200mV 0C Model Setup 'FSM:inst1|presentState[0]'
+Slack : -1.376
+TNS   : -6.415
+
+Type  : Slow 1200mV 0C Model Hold 'FSM:inst1|presentState[0]'
+Slack : -1.179
+TNS   : -9.725
+
+Type  : Slow 1200mV 0C Model Hold 'clk'
+Slack : 0.284
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'clk'
+Slack : -1.821
+TNS   : -14.237
+
+Type  : Slow 1200mV 0C Model Removal 'clk'
+Slack : 1.583
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -16.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'FSM:inst1|presentState[0]'
+Slack : 0.381
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'clk'
+Slack : -3.243
+TNS   : -21.580
+
+Type  : Fast 1200mV 0C Model Setup 'FSM:inst1|presentState[0]'
+Slack : -0.556
+TNS   : -2.576
+
+Type  : Fast 1200mV 0C Model Hold 'FSM:inst1|presentState[0]'
+Slack : -0.869
+TNS   : -7.505
+
+Type  : Fast 1200mV 0C Model Hold 'clk'
+Slack : 0.154
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'clk'
+Slack : -1.116
+TNS   : -8.690
+
+Type  : Fast 1200mV 0C Model Removal 'clk'
+Slack : 1.107
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -16.504
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'FSM:inst1|presentState[0]'
+Slack : 0.287
+TNS   : 0.000
+
+------------------------------------------------------------
